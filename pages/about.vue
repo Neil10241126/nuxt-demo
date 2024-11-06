@@ -2,7 +2,7 @@
 
 <template>
   <h2>
-    Page: 前台首頁
+    Page: 前台 About
   </h2>
 </template>
 

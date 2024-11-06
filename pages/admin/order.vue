@@ -2,7 +2,7 @@
 
 <template>
   <h2>
-    Page: 前台首頁
+    Page: 後台 Order
   </h2>
 </template>
 

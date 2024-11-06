@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app",
+  "name": "day2-style-question",
   "private": true,
   "type": "module",
   "scripts": {
@@ -10,8 +10,11 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "nuxt": "^3.14.0",
-    "vue": "latest",
-    "vue-router": "latest"
+    "bootstrap": "^5.3.3",
+    "nuxt": "^3.12.4",
+    "vue": "latest"
+  },
+  "devDependencies": {
+    "sass": "^1.70.0"
   }
 }
