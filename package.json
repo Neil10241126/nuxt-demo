@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app",
+  "name": "day5-composable-question",
   "private": true,
   "type": "module",
   "scripts": {
@@ -10,8 +10,12 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "nuxt": "^3.14.0",
+    "axios": "^1.7.4",
+    "nuxt": "^3.12.4",
     "vue": "latest",
-    "vue-router": "latest"
+    "vue-loading-overlay": "6.0"
+  },
+  "devDependencies": {
+    "sass": "^1.77.8"
   }
 }
